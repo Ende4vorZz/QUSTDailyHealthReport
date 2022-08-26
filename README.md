@@ -1,6 +1,7 @@
 # QUSTDailyHealthReport
 本内容仅供学习，不可用于不正当途径。
 
+Python3.8
 思路：
 
 1.使用 selenium 进行动态cookie获取，本代码使用 FireFox 作为 Dirver。
